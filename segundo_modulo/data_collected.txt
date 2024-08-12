@@ -1,0 +1,19 @@
+Address
+Approximate location
+Contacts
+Credit score
+Email address
+Emails
+Files and docs
+Fitness info
+Health info
+Name
+Other financial info
+Phone number
+Photos
+Precise location
+Race and ethnicity Dato sensible
+Sexual orientation Dato sensible
+SMS or MMS
+User payment info
+Videos
